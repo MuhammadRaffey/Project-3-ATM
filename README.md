@@ -27,7 +27,7 @@ Welcome to Raffey's ATM project! This project simulates an Automated Teller Mach
 
 1. use
    ```bash
-   npm i project-3-atm
+   npm i raffey-atm
    ```
 
 ## Usage
